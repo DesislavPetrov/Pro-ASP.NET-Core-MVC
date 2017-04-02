@@ -1,5 +1,5 @@
---temp-output:c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\obj\Debug\netcoreapp1.0\
---out:c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\bin\Debug\netcoreapp1.0\LanguageApplications.dll
+--temp-output:D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\obj\Debug\netcoreapp1.0\
+--out:D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\bin\Debug\netcoreapp1.0\LanguageApplications.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -164,8 +164,11 @@
 --reference:C:\Users\win\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\win\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\win\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\obj\Debug\netcoreapp1.0\LanguageApplicationsdotnet-compile.deps.json",LanguageApplications.deps.json
-c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\Program.cs
-c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\Startup.cs
-c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\Controllers\HomeController.cs
-c:\users\win\documents\visual studio 2015\Projects\LanguageApplications\src\LanguageApplications\Models\Product.cs
+--resource:"D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\obj\Debug\netcoreapp1.0\LanguageApplicationsdotnet-compile.deps.json",LanguageApplications.deps.json
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\Program.cs
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\ShoppingCart.cs
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\Startup.cs
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\Controllers\HomeController.cs
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\Models\MyExtensionMethods.cs
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\Models\Product.cs
+D:\GitHub\Pro-ASP.NET-Core-MVC.git\trunk\LanguageApplications\src\LanguageApplications\Models\ShoppingCart.cs
